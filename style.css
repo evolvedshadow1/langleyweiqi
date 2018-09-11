@@ -108,10 +108,12 @@ footer{
 /* about page */
 #main h1{
   text-align: center;
+  font-size: 24px;
 }
 
 #main p{
   text-align: center;
+  font-size: 20px;
 }
 
 .profile img{
@@ -226,4 +228,15 @@ footer{
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+/* lessons */
+#lessons{
+  font-size: 20px;
+  text-align: center;
+  margin: 15px 0px 15px 0px;
+}
+
+#lessons h1{
+  font-size: 24px;
 }
